@@ -1,1 +1,5 @@
-# turma177UC02
+
+# Repositório criado para a UC 02 - Criar projetos web
+
+Aqui ficará o aula a aula da UC 02
+
